@@ -1,0 +1,1 @@
+The file @finalmodel(82epoch) contains the training record of the my on of model, cause of overshotting the loss function in that model, I made some changes to make it porper. To see the updated results goto the other files.
